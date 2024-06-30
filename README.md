@@ -40,7 +40,10 @@ The course is structured into several modules, each focusing on a different aspe
 ### Module 1: Introduction to Data Structures
 - Arrays
 - Two Pointer Method
+- sliding Window
 - Binary Search
+- Time and Space Complexity
+- Sorting Algorithms
 - Stacks and Queues
 
 ### Module 2: Trees and Graphs
@@ -48,6 +51,7 @@ The course is structured into several modules, each focusing on a different aspe
 - Binary Trees
 - Binary Search Trees
 - Graphs and Graph Traversal
+- Trie Data Structure
 
 ### Module 4: Dynamic Programming
 - Memoization
