@@ -11,8 +11,6 @@ This course is designed to teach you the fundamental concepts of data structures
 - [Getting Started](#getting-started)
 - [Course Outline](#course-outline)
 - [Resources](#resources)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
 - [Contact](#contact)
 ## Trainers
 This course is taught By:
@@ -66,35 +64,13 @@ The course is structured into several modules, each focusing on a different aspe
 - [LeetCode](https://leetcode.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [NeetCode](https://neetcode.io/)
-- [Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/books/introduction-algorithms)
+- [Everything you need to know about python for interview](https://youtu.be/0K_eZGS5NsU?si=lMF7EaMqasd52aOO)
 
 ## Course Outline
 If you missed the Live Class You can watch the recording on facebook page of Icodeguru. 
 A Google Sheet Containing all the recording of session is here:
 
 - [Lecture Recordings](https://docs.google.com/spreadsheets/d/1o175-CnYc3oxKlPSYbaeU62KfiMN5tjw1nVnj5fP164/edit?usp=drive_link)
-
-
-## Contribution Guidelines
-
-We welcome contributions to enhance the course material. To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. Open a pull request.
-
-Please ensure your contributions adhere to our coding standards and include necessary documentation.
 
 ## Contact
 
