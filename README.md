@@ -70,7 +70,7 @@ The course is structured into several modules, each focusing on a different aspe
 - [NeetCode](https://neetcode.io/)
 - [Everything you need to know about python for interview](https://youtu.be/0K_eZGS5NsU?si=lMF7EaMqasd52aOO)
 
-## Course Outline
+## Video Recordings
 If you missed the Live Class You can watch the recording on facebook page of Icodeguru. 
 A Google Sheet Containing all the recording of session is here:
 
