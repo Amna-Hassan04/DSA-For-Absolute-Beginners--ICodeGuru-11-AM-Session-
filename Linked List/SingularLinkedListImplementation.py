@@ -7,6 +7,7 @@ class LinkedList:
     def __init__(self):
         self.head = None
 
+    # traverse list 
     def traverse_list(self):
         current_node = self.head
         while current_node:
@@ -14,6 +15,7 @@ class LinkedList:
             current_node = current_node.next
         print("None")
 
+    #searching a node
     def search_node(self, key):
         current_node = self.head
         while current_node:
@@ -21,6 +23,7 @@ class LinkedList:
                 return True
             current_node = current_node.next
         return False
+    
 
     def insert_node(self, data, position):
         new_node = Node(data)
@@ -29,16 +32,20 @@ class LinkedList:
             new_node.next = self.head
             self.head = new_node
             return
+        
+        #traverse to the desired position 
         current_node = self.head
         current_position = 0
         # Traverse to the position just before the desired position
         while current_node and current_position < position - 1:
             current_node = current_node.next
             current_position += 1
+
         # If the current node is None, the position is out of bounds
         if current_node is None:
             print("Position out of bounds")
             return
+        
         # Insert the new node at the desired position
         new_node.next = current_node.next
         current_node.next = new_node
@@ -68,7 +75,8 @@ class LinkedList:
 
 # Example usage:
 llist = LinkedList()
-llist.insert_node("A", 0)
+
+llist.insert_node("A", 0) # A, B, C, D
 llist.insert_node("B", 1)
 llist.insert_node("C", 2)
 llist.insert_node("D", 3)
